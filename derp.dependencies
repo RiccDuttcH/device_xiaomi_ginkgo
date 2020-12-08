@@ -15,12 +15,6 @@
         "repository":   "vendor_xiaomi_trinket-common",
         "target_path":  "vendor/xiaomi/trinket-common"
     },
-    }
-        "remote":       "github",
-        "repository":   "kdrag0n/proton-clang",
-        "target_path":  "prebuilts/clang/host/linux-x86/clang-12.0",
-        "branch":       "master"
-    },
     {
         "repository":   "kubersharma001/android_packages_apps_GcamGOPrebuilt",
         "target_path":  "packages/apps/GcamGOPrebuilt",
