@@ -20,5 +20,10 @@
         "repository":   "kubersharma001/android_packages_apps_GcamGOPrebuilt",
         "target_path":  "packages/apps/GcamGOPrebuilt",
         "branch":       "master"
+    },
+    {
+        "repository":   "ThankYouMario/proprietary_vendor_qcom_sdclang",
+        "target_path":  "prebuilts/clang/host/linux-x86/clang-sdllvm",
+        "branch":       "ruby"
     }
 ]
