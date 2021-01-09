@@ -26,7 +26,8 @@ $(call inherit-product, device/xiaomi/ginkgo/device.mk)
 # Inherit some common Derpfest stuff
 TARGET_BOOT_ANIMATION_RES := 1080
 $(call inherit-product, vendor/derp/config/common_full_phone.mk)
-DERP_BUILDTYPE := Official
+DERP_BUILDTYPE := Official 
+DERP_MAINTAINER:= RiccDuttcH
 TARGET_GAPPS_ARCH := arm64
 TARGET_USES_BLUR := true
 
